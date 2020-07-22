@@ -16,7 +16,9 @@ _mailinglist
 .pytest_cache/
 .idea/
 docs/_build/
-__pycache__
+**/__pycache__
+**/.idea
+**/.vscode
 .env_file
 
 # Coverage reports
@@ -28,3 +30,5 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+
